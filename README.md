@@ -10,7 +10,8 @@ I created Quizlet flashcards for each lecture:
 - [Week 2- TCP/IP Application Layer](https://quizlet.com/gb/1005587164/internet-layer-concepts-and-protocols-overview-flash-cards/?funnelUUID=1fd5298a-7c18-4659-b048-244660981b64)  
 - [Week 3-Transport Layer](https://quizlet.com/gb/1005588636/transport-layer-concepts-and-protocols-overview-flash-cards/?funnelUUID=fcd013bc-c61c-49d8-af21-debf969fc341)
 - [Week 4-Transport Layer-2](https://quizlet.com/gb/1005588371/transport-layer-overview-and-protocols-flash-cards/?funnelUUID=a3c3330a-805f-4058-890c-50a740b9ebd3)
-- [Week 5-Network Layer-2](https://quizlet.com/gb/1005588056/application-layer-overview-and-protocols-flash-cards/?funnelUUID=59d20572-93af-40de-bf26-beacaaea885b)
+- [Week 5-Network Layer](https://quizlet.com/gb/1005588056/application-layer-overview-and-protocols-flash-cards/?funnelUUID=59d20572-93af-40de-bf26-beacaaea885b)
+- [Week 6-Network Access Layer](https://quizlet.com/gb/1010495775/understanding-the-network-access-layer-flash-cards/?funnelUUID=38172c0e-6b37-42af-b184-439637b79330)
 
 ## 📝 Documentation  
 - [Weekly Log](Weekly_Log.md)  
