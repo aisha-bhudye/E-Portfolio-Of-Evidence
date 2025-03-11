@@ -13,6 +13,7 @@ I created Quizlet flashcards for each lecture:
 - [Week 5-Network Layer](https://quizlet.com/gb/1005588056/application-layer-overview-and-protocols-flash-cards/?funnelUUID=59d20572-93af-40de-bf26-beacaaea885b)
 - [Week 6-Network Access Layer](https://quizlet.com/gb/1010495775/understanding-the-network-access-layer-flash-cards/?funnelUUID=38172c0e-6b37-42af-b184-439637b79330)
 - [Week 7-Introduction to Operating Systems](https://quizlet.com/gb/1012410568/introduction-to-operating-systems-and-memory-management-flash-cards/)
+- [Week 8-Overview of Common Operating Systems and Their Features](https://quizlet.com/gb/1016748731/overview-of-common-operating-systems-and-their-features-flash-cards/)
 
 ## 📝 Documentation  
 - [Weekly Log](Weekly_Log.md)  
