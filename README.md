@@ -14,7 +14,7 @@ I created Quizlet flashcards for each lecture:
 - [Week 6-Network Access Layer](https://quizlet.com/gb/1010495775/understanding-the-network-access-layer-flash-cards/?funnelUUID=38172c0e-6b37-42af-b184-439637b79330)
 - [Week 7-Introduction to Operating Systems](https://quizlet.com/gb/1012410568/introduction-to-operating-systems-and-memory-management-flash-cards/)
 - [Week 8-Overview of Common Operating Systems and Their Features](https://quizlet.com/gb/1016748731/overview-of-common-operating-systems-and-their-features-flash-cards/)
-- 
+- [Week 9-Virtualisation and the Cloud](https://quizlet.com/gb/1019692803/introduction-to-virtualisation-and-cloud-technologies-flash-cards/)
 ## 🚀 About This Portfolio  
 This repository contains all my coursework for Networks and Operating Systems.  
 It showcases my **weekly progress, practical exercises, and key takeaways**.  
